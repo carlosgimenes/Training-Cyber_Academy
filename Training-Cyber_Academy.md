@@ -2,7 +2,7 @@
 
 ### **Instrutor**: NomeDoInstrutor
 ### **Linkedin**: [Perfil do LinkeIn](ColeAquiLinkPaginaPerfilLinkedinInstrutor)
-### **Página do curso no LocalTreinamento**: [Link para página do curso na-no LocalTreinamento](https://cyberlabfbb.neolude.com.br/Account/Login?ReturnUrl=%2f%3futm_campaign%3dcyber_academy_-_boas_vindas%26utm_medium%3demail%26utm_source%3dRD%2bStation&utm_campaign=cyber_academy_-_boas_vindas&utm_medium=email&utm_source=RD+Station)
+### **Página do curso no LocalTreinamento**: [Link para página do curso no Portal da FEBRABAN](https://cyberlabfbb.neolude.com.br/Account/Login?ReturnUrl=%2f%3futm_campaign%3dcyber_academy_-_boas_vindas%26utm_medium%3demail%26utm_source%3dRD%2bStation&utm_campaign=cyber_academy_-_boas_vindas&utm_medium=email&utm_source=RD+Station)
 ### **Pasta no Google Drive de apoio ao Treinamento**: [Link Google Drive para pasta do curso](https://drive.google.com/drive/folders/1dKGq5uU95rzU6QbUXeRuDgpdtwf_Rgwq?usp=drive_link)
 ### **Início**: 16/09/2024
 ### **Término**: 
