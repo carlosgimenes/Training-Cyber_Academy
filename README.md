@@ -1,4 +1,4 @@
-# Training LocalTreinamento - NomeDoTreinamento
+# Training FEBRABAN - Cyber Academy
 
 ## Estrutura do Repositório
 

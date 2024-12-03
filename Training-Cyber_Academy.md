@@ -1,7 +1,5 @@
 # FEBRABAN - Cyber Academy
 
-### **Instrutor**: NomeDoInstrutor
-### **Linkedin**: [Perfil do LinkeIn](ColeAquiLinkPaginaPerfilLinkedinInstrutor)
 ### **Página do curso no LocalTreinamento**: [Link para página do curso no Portal da FEBRABAN](https://cyberlabfbb.neolude.com.br/Account/Login?ReturnUrl=%2f%3futm_campaign%3dcyber_academy_-_boas_vindas%26utm_medium%3demail%26utm_source%3dRD%2bStation&utm_campaign=cyber_academy_-_boas_vindas&utm_medium=email&utm_source=RD+Station)
 ### **Pasta no Google Drive de apoio ao Treinamento**: [Link Google Drive para pasta do curso](https://drive.google.com/drive/folders/1dKGq5uU95rzU6QbUXeRuDgpdtwf_Rgwq?usp=drive_link)
 ### **Início**: 16/09/2024
@@ -9,7 +7,7 @@
 
 ## A Jornada
 
-Coloque aqui um breve resumo daquilo que motivou a Jornada.
+Obter conhecimentos relevantes sobre Cyber Security.
 
 ## Índice
 
@@ -93,5 +91,194 @@ Descubra a importância dos profissionais de cibersegurança, as habilidades ess
 ---
 
 ## Dia 1
+
+- Carolina Sansão - FEBRABAN
+- Daniel Tupinanbá - Deloitte
+- José Vicente Neto - Deloitte
+- Bruna Mazarin Mattara - FEBRABAN
+- Henrique Kodama - FEBRABAN
+
+### Pontos importantes do Dia 1
+
+#### Relembrar
+
+- RTO
+- RPO
+- Ciclo PDCA
+- Simétrica e Assimétrica
+- O que eu sei?
+- O que eu sou?
+- O que eu tenho?
+- Mecanismos de não repúdio
+
+#### Frameworks
+
+- ISO 27001
+- COBIT
+- ITIL
+- ITSM
+- NIST
+
+---
+
+## Dia 03
+
+### Crimes Cibernéticos
+
+- Não importa a origem, ou dispositivo, físico ou virtual
+- Qualquer dispositivo chamado de Smart
+- Crimes podem ser cometidos no âmbito cibernético ou fora dele
+- Principio Básico - manifestação liberdade
+
+#### Exemplos de tipificação
+
+- Invasão de dispositivos (acesso não autorizado)
+- Contexto é muito importante
+
+Mesa limpa
+
+Zero trust
+
+Ata notarial
+
+---
+
+## Dia 04
+
+Perguntas - Crimes Cibernéticos (veja imagem)
+
+**O que é um Crime Cibernético? E como se proteger?**
+
+Porque estou utilizando um dispositivo eletro/eletrônico para praticar uma atividade maliciosa.
+
+Proteção pessoal: sempre atualizar, não clicar em qualquer link, não confirmar dados quando receber ligações estranhas, senhas com relativa complexidade, não fazer uso repetido, manter controle sobre credenciais.
+
+Dentro das empresas: valem as mesmas regras citadas anteriormente, multiplo fator de autenticação, manter parque atualizado, manter backup dos dados mais importantes e preferencialmente em um ambiente externo.
+
+**Em caso de ataque cibernético, por onde devo começar? Seria em coletar informações que ainda possam ser salvas ou uma interrupção no ataque, o que deve ser considerado?**
+
+Reação primária identificar se o ataque ainda está acontecendo, já se propagou, já causou estrago ou ainda está em andamento.
+
+Para conter o ataque, desconectar o sistema (tirar cabo de rede, bloquear comunicação de fora para dentro da rede), posteriormente coletar as evidências e informações possíves para interromper e conter o ataque.
+
+Vital que você salve as informações de log dos sistemas, para posteriormente avaliar o ataque, AD parece que tem um parâmetro que registra em um log todas alterações que são realizadas.
+
+Tentar salvar o que tem dentro da sua empresa.
+
+NIST, SANS, respotas para "pós incidentes".
+
+**Qual a tendência dos próximos crimes cibernéticos e como nós podemos nos preparar para isso?**
+
+Fazendo um exercício de futurologia, teremos novos tipos de ataques cibernéticos quando IA estiver mais amadurecida.
+
+Enquanto muitos estão trabalhando para que a IA traga benefícios, tem muita gente trabalhando com a IA para aplicar novos golpes.
+
+Já existem relatos de casos de uso de aplicação de IA para elaborar golpes sofisticados usando conceitos antigos de golpes.
+
+Superficie de ataque crescendo de forma expressiva em função de vulnerabilidades.
+
+IoT normalmente são instalados e esquecidos, podem ser porta de entrada para problemas de segurança.
+
+**As plataformas acessadas são responsáveis pelos dados vazados?**
+
+Lei 13709 LGPD.
+
+Sim, também são responsáveis, desde que o controlador informe como ele deve proteger.
+
+**Qual a diferença entre: vestígio, evidência, indício e prova?**
+
+Vestigio são sinais ou traços, é a marca do fato, aquilo que conta a história.
+
+Evidência (palavra que não existe) pode ser cópia de tela ou arquivo de log.
+
+Indicio é a circunstância que leva ao fato.
+
+Prova é qualquer evidência que pode ser aceita por um tribunal.
+
+Perguntas - Continuação (veja imagem).
+
+---
+
+## Dia 05
+
+EAD
+
+---
+
+## Dia 06
+
+### Engenharia Social
+
+#### Introdução
+
+O que é?
+
+**Engenharia Social é uma tática de manipulação psicológica para obter informações confidênciais ou acesso não autorizado, explorando confiança, autoridade ou outros meios enganosos.**
+
+Entre a maioria dos ataques, os comportamentos mais comuns são:
+
+- Emoções intensificadas.
+- Urgência.
+- Confiança.
+
+Procure sempre que possível habilitar a autenticação Multifactor.
+
+Porque criminosos utilizam engenharia social?
+
+- Taxa de sucesso muito maior do que outros ataques tradicionais.
+- Aproveitamento de informações disponíveis publicamente (OSINT).
+- Facilidade de execução e baixo custo.
+- Exploração de vulnerabilidade humana.
+- Potencial para obter acesso privilegiado a sistemas e dados sensiveis.
+- Versatilidade.
+
+---
+
+## Módulo 5 - Gerenciamento de Riscos (live)
+
+### O que é?
+
+- **Etapas principais**
+
+  - Conhecer e compreender o negócio
+  - Identificação de técnologias aplicadas ao negócio
+  - Apontar os sistemas críticos e fundamentais
+  - Avaliar possíveis ameaças e riscos ao sistemas fundamentais
+  - Elaboração de aplicação visando eliminação de riscos
+
+"Carta de aceite dos riscos: rever as discussões, para definições"
+
+### Possiveis causas de Riscos
+
+- Falhas de Projeto.
+- Acidentes.
+- Responsabilidades Legais (Devemos garantir que estejam aderentes a LGPD).
+- Causas e Desastres Naturais.
+- Ataques Deliberados.
+
+### Benefícios
+
+- Redução de custos com ações corretivas.
+- Evita perdas e prejuizos significativos.
+- Auxilia na tomada de decisões.
+- Auxilia na prevenção de incidentes.
+
+Lembrando que a Avaliação de Riscos possui um ciclo contínuo.
+
+- Avaliação Contínua > Monitoramento Contínuo > Correções Contínuas > Produção de Relatórios
+
+### Perguntas
+
+- O que são stakeholders?
+  - Executivos, Grupos Internos, Clientes, Boarding, Acionistas, Interessados no negócio, ponto focal que dará suporte sobre o negócio.
+
+- Como o processo de avaliação de risco, conforme descrito pela ISO 27005, pode ajudar uma organização a equilibrar os custos de implementação de controles de segurança da informação com os prejuízos potenciais causados pela ausência desses controles?
+  - Focar no que é necessário.
+  - O que iremos proteger: as jóias da coroa.
+  - Multas, vazamento, dinheiro gasto com perdas tecnologicas, faz com que tenhamos o retorno financeiro.
+  - Segurança e Infraestrutura não são gastos, mas investimento.
+
+- Qual é a fase mais importante do gerenciamento de risco em um modelo de negócios de uma empresa?
+  - Identificação e categorização das ameaças
 
 ---
